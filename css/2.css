@@ -1,0 +1,36 @@
+
+.item{
+    background-color: white;
+    width: 76%;
+    left: 12%;
+    bottom: 10%;
+}
+h2{
+    font-weight: 100;
+}
+p{
+    color: gray;
+    font-weight: 100;
+    font-size: 16px;
+}
+img{
+    cursor: pointer;
+}
+.hidden-div{
+    background-color:rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.on-hidden{
+    background-image: url(../images/portfolio-1.jpg);
+    width: 50%;
+    height: 450px;
+    background-size: cover;
+    background-position: center center;
+}
+i{
+    cursor: pointer;
+}
